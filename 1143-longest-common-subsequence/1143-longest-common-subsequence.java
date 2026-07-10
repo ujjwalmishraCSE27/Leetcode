@@ -5,7 +5,7 @@ class Solution {
         int take=0;
         if(dp[i][j]!=-1) return dp[i][j];
         if(s1.charAt(i)==s2.charAt(j)){
-            take=1+solve(i+1,j+1,s1,s2);
+            return dp[i][j]=1+solve(i+1,j+1,s1,s2);
         }
         else{
             take=solve(i+1,j,s1,s2);

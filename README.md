@@ -18,9 +18,11 @@ This repo contains my daily solved problems of Leetcode.
 ## String
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

@@ -16,16 +16,19 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
+| [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
+| [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
+| [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Array

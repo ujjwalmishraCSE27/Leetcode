@@ -1,24 +1,27 @@
 class Solution {
-    public boolean check(int s,int e, String st){
-        while(s<=e){
-            if(st.charAt(s)!=st.charAt(e))
-               return false;
-            s++;
-            e--;
+    int dp[][]=new int[1001][1001];
+    public boolean check(int i,int j, String st){
+        if(i>=j) return true;
+        if(dp[i][j]!=-1){
+            return dp[i][j]==1;
         }
-        return true;
+        if(st.charAt(i)==st.charAt(j) && check(i+1,j-1,st)){
+           dp[i][j]=1;
+           return true;
+        }
+        dp[i][j]=0;
+        return false;
     }
     public int countSubstrings(String s) {
+        for(int a[]:dp){
+            Arrays.fill(a,-1);
+        }
         int ans=0;
-        StringBuilder sb=new StringBuilder();
         for(int i=0;i<s.length();i++){
             for(int j=i;j<s.length();j++){
-               sb.append(s.charAt(j));
-               String str=sb.toString();
-               if(check(0,str.length()-1,str))
+               if(check(i,j,s))
                   ans++;
             }
-            sb.setLength(0);
         }
         return ans;
     }

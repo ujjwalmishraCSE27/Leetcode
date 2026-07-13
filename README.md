@@ -11,6 +11,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -45,4 +47,8 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

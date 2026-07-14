@@ -16,11 +16,13 @@ This repo contains my daily solved problems of Leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -28,6 +30,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |

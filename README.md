@@ -44,11 +44,13 @@ This repo contains my daily solved problems of Leetcode.
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search

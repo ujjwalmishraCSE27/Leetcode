@@ -31,6 +31,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Array
 |  |
 | ------- |

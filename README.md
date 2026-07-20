@@ -49,6 +49,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
+| [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -82,8 +83,13 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

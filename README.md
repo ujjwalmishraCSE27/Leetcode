@@ -11,6 +11,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0412-fizz-buzz) |
@@ -38,6 +39,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -94,4 +96,8 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

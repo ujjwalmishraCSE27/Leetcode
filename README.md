@@ -27,6 +27,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0005-longest-palindromic-substring](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -40,6 +41,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |

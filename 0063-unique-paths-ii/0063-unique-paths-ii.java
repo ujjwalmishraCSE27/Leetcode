@@ -1,18 +1,23 @@
 class Solution {
-    int dp[][]=new int[101][101];
-    public int solve(int arr[][],int i,int j){
-        if(i>=arr.length || j>=arr[0].length) return 0;
-        if(arr[i][j]==1) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(i==arr.length-1 && j==arr[0].length-1) return 1;
-        int down=solve(arr,i+1,j);
-        int right=solve(arr,i,j+1);
-        return dp[i][j]=down+right;
-    }
     public int uniquePathsWithObstacles(int[][] arr) {
-           for(int a[]:dp){
-            Arrays.fill(a,-1);
+           int dp[][]=new int[arr.length][arr[0].length];
+           for(int i=0;i<arr.length;i++){
+              if(i==0) dp[i][0]=0;
+              if(arr[i][0]==1) break;
+              dp[i][0]=1;
            }
-           return solve(arr,0,0);
+           for(int j=0;j<arr[0].length;j++){
+              if(j==0) dp[0][j]=0;
+              if(arr[0][j]==1) break;
+              dp[0][j]=1;
+           }
+           for(int i=1;i<arr.length;i++){
+            for(int j=1;j<arr[0].length;j++){
+                if(arr[i][j]==1) dp[i][j]=0;
+                else dp[i][j]=dp[i-1][j]+dp[i][j-1];
+                
+            }
+           }
+           return dp[arr.length-1][arr[0].length-1];
     }
 }

@@ -50,6 +50,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ This repo contains my daily solved problems of Leetcode.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |

@@ -60,6 +60,7 @@ This repo contains my daily solved problems of Leetcode.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -118,5 +119,6 @@ This repo contains my daily solved problems of Leetcode.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

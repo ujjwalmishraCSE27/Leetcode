@@ -62,6 +62,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization

@@ -16,6 +16,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0062-unique-paths](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -99,6 +100,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -139,4 +141,8 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

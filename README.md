@@ -54,6 +54,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0131-palindrome-partitioning](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -67,6 +68,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -89,6 +91,7 @@ This repo contains my daily solved problems of Leetcode.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -134,6 +137,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -145,4 +149,8 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->

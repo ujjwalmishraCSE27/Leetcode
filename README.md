@@ -69,6 +69,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -161,4 +163,8 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

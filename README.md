@@ -73,6 +73,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +146,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0303-range-sum-query-immutable](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window

@@ -80,6 +80,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -149,6 +150,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0724-find-pivot-index](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |

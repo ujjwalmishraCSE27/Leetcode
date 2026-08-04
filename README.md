@@ -11,6 +11,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -91,12 +92,14 @@ This repo contains my daily solved problems of Leetcode.
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |

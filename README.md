@@ -215,4 +215,16 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0841-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->

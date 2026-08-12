@@ -66,6 +66,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Array
 |  |
@@ -93,6 +94,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |

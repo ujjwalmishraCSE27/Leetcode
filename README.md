@@ -24,6 +24,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0412-fizz-buzz](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1732-find-the-highest-altitude](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -186,6 +188,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
 ## Bitmask
 |  |
 | ------- |
@@ -254,4 +257,24 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

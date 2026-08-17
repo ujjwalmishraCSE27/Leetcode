@@ -16,15 +16,15 @@ class Solution {
         if (i == a.length - 1 && j == a[0].length - 1)
             return new pair(a[i][j], a[i][j]);
 
-        if (vis[i][j])
+        if (memo[i][j]!=null)
             return memo[i][j];
 
-        vis[i][j] = true;
+        //vis[i][j] = true;
 
         long maxi = Long.MIN_VALUE;
         long mini = Long.MAX_VALUE;
 
-        if (i + 1 < a.length) {
+        if (i + 1 < a.length && j<a[0].length) {
             pair down = solve(a, i + 1, j);
 
             long x = a[i][j] * down.max;
@@ -34,7 +34,7 @@ class Solution {
             mini = Math.min(mini, Math.min(x, y));
         }
 
-        if (j + 1 < a[0].length) {
+        if (j + 1 < a[0].length && i<a.length) {
             pair right = solve(a, i, j + 1);
 
             long x = a[i][j] * right.max;

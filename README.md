@@ -66,6 +66,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -93,6 +94,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0724-find-pivot-index) |
+| [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -160,6 +162,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0174-dungeon-game) |
+| [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Combinatorics

@@ -34,6 +34,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0392-is-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ This repo contains my daily solved problems of Leetcode.
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2460-apply-operations-to-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0412-fizz-buzz](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Backtracking
 |  |
 | ------- |

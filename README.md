@@ -6,6 +6,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +87,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |

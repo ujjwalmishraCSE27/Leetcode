@@ -34,6 +34,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0005-longest-palindromic-substring](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +96,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +144,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |

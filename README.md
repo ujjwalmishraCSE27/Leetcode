@@ -310,4 +310,8 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

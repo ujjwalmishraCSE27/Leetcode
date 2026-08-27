@@ -89,6 +89,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -143,6 +144,7 @@ This repo contains my daily solved problems of Leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -315,4 +317,8 @@ This repo contains my daily solved problems of Leetcode.
 | ------- |
 | [0175-combine-two-tables](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0577-employee-bonus) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

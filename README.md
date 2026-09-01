@@ -16,6 +16,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1027-longest-arithmetic-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2453-destroy-sequential-targets](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2453-destroy-sequential-targets) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -135,6 +136,7 @@ This repo contains my daily solved problems of Leetcode.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2453-destroy-sequential-targets](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2453-destroy-sequential-targets) |
 | [2460-apply-operations-to-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -311,6 +313,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+| [2453-destroy-sequential-targets](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2453-destroy-sequential-targets) |
 ## Game Theory
 |  |
 | ------- |

@@ -13,6 +13,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
@@ -78,6 +79,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -117,6 +119,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0724-find-pivot-index](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -156,6 +159,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1539-kth-missing-positive-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |

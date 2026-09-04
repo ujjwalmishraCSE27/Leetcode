@@ -30,6 +30,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2029-stone-game-ix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |

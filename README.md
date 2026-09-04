@@ -139,6 +139,7 @@ This repo contains my daily solved problems of Leetcode.
 | [2453-destroy-sequential-targets](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2453-destroy-sequential-targets) |
 | [2460-apply-operations-to-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +222,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |

@@ -17,6 +17,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1248-count-number-of-nice-subarrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2453-destroy-sequential-targets](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2453-destroy-sequential-targets) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -139,6 +140,7 @@ This repo contains my daily solved problems of Leetcode.
 | [2305-fair-distribution-of-cookies](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2453-destroy-sequential-targets](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2453-destroy-sequential-targets) |
 | [2460-apply-operations-to-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting

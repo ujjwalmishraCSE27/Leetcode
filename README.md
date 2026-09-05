@@ -143,6 +143,7 @@ This repo contains my daily solved problems of Leetcode.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +227,7 @@ This repo contains my daily solved problems of Leetcode.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |

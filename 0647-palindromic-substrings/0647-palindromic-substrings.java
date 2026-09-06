@@ -1,28 +1,26 @@
 class Solution {
-    int dp[][]=new int[1001][1001];
-    public boolean check(int i,int j, String st){
-        if(i>=j) return true;
-        if(dp[i][j]!=-1){
-            return dp[i][j]==1;
-        }
-        if(st.charAt(i)==st.charAt(j) && check(i+1,j-1,st)){
-           dp[i][j]=1;
-           return true;
-        }
-        dp[i][j]=0;
-        return false;
-    }
     public int countSubstrings(String s) {
-        for(int a[]:dp){
-            Arrays.fill(a,-1);
-        }
-        int ans=0;
-        for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-               if(check(i,j,s))
-                  ans++;
+        boolean dp[][]=new boolean[s.length()+1][s.length()+1];
+        for(int l=1;l<=s.length();l++){
+            for(int i=0;i+l-1<s.length();i++){
+                int j=i+l-1;
+                if(i==j)dp[i][j]=true;
+                else if(i+1==j){
+                    if(s.charAt(i)==s.charAt(j)) dp[i][j]=true;
+                    else dp[i][j]=false;
+                }
+                else{
+                    if(s.charAt(i)==s.charAt(j) && dp[i+1][j-1]) dp[i][j]=true;
+                    else dp[i][j]=false;
+                }
             }
         }
-        return ans;
+        int cnt=0;
+        for(int i=0;i<dp.length;i++){
+            for(int j=0;j<dp.length;j++){
+                if(dp[i][j]) cnt++;
+            }
+        }
+        return cnt;
     }
 }

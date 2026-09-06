@@ -5,7 +5,7 @@ class Solution {
         int che=0;
         if(dp[i][j][x][y]!=-1) return dp[i][j][x][y];
         if(i==arr.length-1 && j==arr[0].length-1) return arr[i][j];
-        //if(x==arr.length-1 && y==arr[0].length-1) return arr[x][y];
+        if(x==arr.length-1 && y==arr[0].length-1) return arr[x][y];
         if(i==x && j==y){
            che+=arr[i][j];
         }

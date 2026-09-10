@@ -7,6 +7,7 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +101,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |

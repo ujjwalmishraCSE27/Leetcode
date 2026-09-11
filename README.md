@@ -104,6 +104,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0041-first-missing-positive](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +166,7 @@ This repo contains my daily solved problems of Leetcode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -210,6 +212,7 @@ This repo contains my daily solved problems of Leetcode.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0174-dungeon-game) |
 | [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
 | [1260-shift-2d-grid](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/1260-shift-2d-grid) |

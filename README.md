@@ -82,6 +82,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0368-largest-divisible-subset](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0741-cherry-pickup) |
@@ -121,6 +122,7 @@ This repo contains my daily solved problems of Leetcode.
 | [0368-largest-divisible-subset](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -351,4 +353,12 @@ This repo contains my daily solved problems of Leetcode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ujjwalmishraCSE27/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
